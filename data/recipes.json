@@ -182,5 +182,23 @@
       "Maple syrup and berries for serving"
     ],
     "instructions": "Mash bananas until smooth. Whisk in eggs, cinnamon, and vanilla until well combined. Heat oil in a non-stick pan over medium-low heat. Pour small portions of batter and cook for 2-3 minutes per side. Serve with syrup and berries. They're more delicate than regular pancakes, so be gentle when flipping!"
+  },
+   {
+    "id": "Nut-Freezer-Bar",
+    "title": "Protein Freezer Nut Bars",
+    "description": "Healthy pancakes that seem too good to be true - but they work!",
+    "image": "recipe-data/images/banana-pancakes.jpg",
+    "tags": ["breakfast", "healthy", "cheap", "quick"],
+    "prepTime": "10 minutes",
+    "servings": 2,
+    "ingredients": [
+      "2 ripe bananas",
+      "4 eggs",
+      "1/4 tsp cinnamon (optional)",
+      "1 tsp vanilla extract (optional)",
+      "Coconut oil for cooking",
+      "Maple syrup and berries for serving"
+    ],
+    "instructions": "Mash bananas until smooth. Whisk in eggs, cinnamon, and vanilla until well combined. Heat oil in a non-stick pan over medium-low heat. Pour small portions of batter and cook for 2-3 minutes per side. Serve with syrup and berries. They're more delicate than regular pancakes, so be gentle when flipping!"
   }
 ]
