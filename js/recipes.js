@@ -57,7 +57,7 @@ function displayRecipes(recipesToShow) {
     recipesGrid.innerHTML = recipesToShow.map(recipe => `
         <div class="recipe-card" onclick="openRecipeModal('${recipe.id}')" data-recipe-id="${recipe.id}">
             <img src="${recipe.image}" alt="${recipe.title}" class="recipe-image" 
-                 onerror="this.src='assets/images/placeholder.jpg'">
+                 onerror="handleImageError(this)" loading="lazy">
             <div class="recipe-content">
                 <h3 class="recipe-title">${recipe.title}</h3>
                 <p class="recipe-description">${recipe.description}</p>
@@ -211,6 +211,42 @@ function closeRecipeModal() {
     }
 }
 
+// Handle image loading errors more gracefully
+function handleImageError(img) {
+    // Try placeholder first
+    if (!img.src.includes('placeholder.jpg')) {
+        img.src = 'assets/images/placeholder.jpg';
+        return;
+    }
+    
+    // If placeholder fails, create a CSS-based placeholder
+    img.style.display = 'none';
+    const placeholder = document.createElement('div');
+    placeholder.className = 'image-placeholder';
+    placeholder.textContent = 'Image Not Available';
+    placeholder.style.cssText = `
+        width: 100%;
+        height: 200px;
+        background: linear-gradient(45deg, #667eea, #764ba2);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-weight: bold;
+        border-radius: 8px;
+        font-size: 14px;
+    `;
+    
+    // Handle modal images differently
+    if (img.classList.contains('modal-image')) {
+        placeholder.style.height = '200px';
+        placeholder.style.borderRadius = '10px';
+    }
+    
+    img.parentNode.insertBefore(placeholder, img);
+}
+
 // Make functions globally available
 window.openRecipeModal = openRecipeModal;
 window.closeRecipeModal = closeRecipeModal;
+window.handleImageError = handleImageError;

@@ -748,6 +748,43 @@ footer {
     color: #666;
 }
 
+/* Image Placeholder Styles */
+.image-placeholder {
+    background: linear-gradient(45deg, #667eea, #764ba2);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.recipe-image, .modal-image {
+    transition: opacity 0.3s ease;
+}
+
+.recipe-image:not([src]), .modal-image:not([src]) {
+    opacity: 0;
+}
+
+/* Loading states */
+.recipe-card {
+    position: relative;
+}
+
+.recipe-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 200px;
+    background: #f0f0f0;
+    border-radius: 12px 12px 0 0;
+    z-index: -1;
+}
+
 /* Modal Responsive Design */
 @media (max-width: 768px) {
     .recipe-modal {
