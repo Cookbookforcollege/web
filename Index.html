@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Demo Website</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0f2f5; /* Light gray background */
+            color: #333;
+        }
+        /* Custom scrollbar for better aesthetics */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col">
+
+    <!-- Header Section -->
+    <header class="bg-gradient-to-r from-blue-600 to-blue-800 text-white shadow-lg py-4">
+        <div class="container mx-auto px-4 flex justify-between items-center">
+            <h1 class="text-3xl font-bold rounded-md bg-white text-blue-700 px-3 py-1 shadow-md">DemoSite</h1>
+            <nav>
+                <ul class="flex space-x-6">
+                    <li><a href="#" class="hover:text-blue-200 transition duration-300">Home</a></li>
+                    <li><a href="#" class="hover:text-blue-200 transition duration-300">About</a></li>
+                    <li><a href="#" class="hover:text-blue-200 transition duration-300">Services</a></li>
+                    <li><a href="#" class="hover:text-blue-200 transition duration-300">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content Section -->
+    <main class="flex-grow container mx-auto px-4 py-8">
+        <section class="bg-white p-8 rounded-xl shadow-lg mb-8">
+            <h2 class="text-4xl font-extrabold text-blue-700 mb-4">Welcome to Our Demo Website!</h2>
+            <p class="text-lg leading-relaxed text-gray-700">
+                This is a simple, modern, and responsive demo website built with pure HTML and the powerful
+                Tailwind CSS framework. It's designed to showcase basic layout principles and effective use
+                of utility-first styling.
+            </p>
+            <button class="mt-6 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105">
+                Learn More
+            </button>
+        </section>
+
+        <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-8">
+            <!-- Feature Card 1 -->
+            <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition duration-300 ease-in-out transform hover:-translate-y-1">
+                <div class="text-blue-500 text-5xl mb-4 text-center">💡</div>
+                <h3 class="text-2xl font-bold text-gray-800 mb-3 text-center">Innovative Solutions</h3>
+                <p class="text-gray-600 leading-relaxed text-center">
+                    We bring fresh ideas and cutting-edge approaches to solve complex problems efficiently.
+                </p>
+            </div>
+
+            <!-- Feature Card 2 -->
+            <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition duration-300 ease-in-out transform hover:-translate-y-1">
+                <div class="text-green-500 text-5xl mb-4 text-center">🚀</div>
+                <h3 class="text-2xl font-bold text-gray-800 mb-3 text-center">Rapid Development</h3>
+                <p class="text-gray-600 leading-relaxed text-center">
+                    Our agile methodology ensures quick turnaround times without compromising on quality.
+                </p>
+            </div>
+
+            <!-- Feature Card 3 -->
+            <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition duration-300 ease-in-out transform hover:-translate-y-1">
+                <div class="text-purple-500 text-5xl mb-4 text-center">💖</div>
+                <h3 class="text-2xl font-bold text-gray-800 mb-3 text-center">User-Centric Design</h3>
+                <p class="text-gray-600 leading-relaxed text-center">
+                    Every design choice is made with the end-user experience firmly in mind.
+                </p>
+            </div>
+        </section>
+
+        <section class="bg-white p-8 rounded-xl shadow-lg">
+            <h2 class="text-3xl font-extrabold text-blue-700 mb-6 text-center">What We Do</h2>
+            <div class="flex flex-col md:flex-row items-center md:space-x-8">
+                <div class="md:w-1/2 mb-6 md:mb-0">
+                    <!-- Placeholder image with dynamic dimensions -->
+                    <img src="https://placehold.co/600x400/ADD8E6/000000?text=Placeholder+Image"
+                         alt="About Us Image"
+                         class="rounded-lg shadow-md w-full h-auto object-cover">
+                </div>
+                <div class="md:w-1/2">
+                    <p class="text-gray-700 mb-4 leading-relaxed">
+                        We specialize in creating elegant and functional web solutions for businesses of all sizes.
+                        From simple landing pages to complex web applications, our team is dedicated to delivering
+                        high-quality results that exceed expectations.
+                    </p>
+                    <p class="text-gray-700 leading-relaxed">
+                        Our focus is on clean code, responsive design, and providing an intuitive user interface
+                        that makes your online presence stand out.
+                    </p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer class="bg-gray-800 text-white py-6 mt-8 shadow-inner">
+        <div class="container mx-auto px-4 text-center">
+            <p>&copy; 2024 DemoSite. All rights reserved.</p>
+            <div class="flex justify-center space-x-4 mt-3">
+                <a href="#" class="hover:text-blue-400 transition duration-300">Privacy Policy</a>
+                <span class="text-gray-600">|</span>
+                <a href="#" class="hover:text-blue-400 transition duration-300">Terms of Service</a>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
