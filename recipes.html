@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipes - Cookbook for College</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Header will be loaded here -->
+    <div id="header-placeholder"></div>
+
+    <!-- Main Content -->
+    <main>
+        <div class="page-header">
+            <h1 class="page-title">Recipe Collection</h1>
+            <p class="page-subtitle">Discover healthy, affordable meals perfect for college life</p>
+        </div>
+
+        <div class="recipes-header">
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search recipes by name, ingredients, or cooking method...">
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-tag="all">All Recipes</button>
+                    <button class="filter-btn" data-tag="breakfast">Breakfast</button>
+                    <button class="filter-btn" data-tag="lunch">Lunch</button>
+                    <button class="filter-btn" data-tag="dinner">Dinner</button>
+                    <button class="filter-btn" data-tag="cheap">Budget-Friendly</button>
+                    <button class="filter-btn" data-tag="quick">Quick Prep</button>
+                    <button class="filter-btn" data-tag="healthy">Nutritious</button>
+                    <button class="filter-btn" data-tag="batch-cook">Meal Prep</button>
+                    <button class="filter-btn" data-tag="dorm-friendly">Dorm-Friendly</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="recipes-grid" class="recipes-grid">
+            <!-- Recipes will be loaded here dynamically -->
+            <div style="grid-column: 1/-1; text-align: center; color: #666; padding: 40px;">
+                <p>Loading recipes...</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer will be loaded here -->
+    <div id="footer-placeholder"></div>
+
+    <script src="js/shared.js"></script>
+    <script src="js/recipes.js"></script>
+</body>
+</html>
