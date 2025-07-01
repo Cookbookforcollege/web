@@ -183,7 +183,7 @@
     ],
     "instructions": "Mash bananas until smooth. Whisk in eggs, cinnamon, and vanilla until well combined. Heat oil in a non-stick pan over medium-low heat. Pour small portions of batter and cook for 2-3 minutes per side. Serve with syrup and berries. They're more delicate than regular pancakes, so be gentle when flipping!"
   },
-   {
+  {
     "id": "Nut-Freezer-Bar",
     "title": "Protein Freezer Nut Bars",
     "description": "Healthy pancakes that seem too good to be true - but they work!",
@@ -200,5 +200,1073 @@
       "Maple syrup and berries for serving"
     ],
     "instructions": "Mash bananas until smooth. Whisk in eggs, cinnamon, and vanilla until well combined. Heat oil in a non-stick pan over medium-low heat. Pour small portions of batter and cook for 2-3 minutes per side. Serve with syrup and berries. They're more delicate than regular pancakes, so be gentle when flipping!"
+  },
+  {
+    "id": "pumpkin-cottage-cheese-pancakes",
+    "title": "Pumpkin Cottage Cheese Pancakes",
+    "description": "Protein-packed pancakes with fall flavors",
+    "image": "recipe-data/images/pumpkin-pancakes.jpg",
+    "tags": ["breakfast", "healthy", "protein"],
+    "prepTime": "15 minutes",
+    "servings": 2,
+    "ingredients": [
+      "3/4 cup rolled oats (more if needed)",
+      "1/3 cup egg whites or 2 whole eggs",
+      "1/2 cup cottage cheese",
+      "1/3 cup pumpkin",
+      "1 tbsp sweetener",
+      "splash of milk if needed",
+      "1 teaspoon baking powder",
+      "1/2 teaspoon pumpkin pie spice",
+      "1/4 teaspoon cinnamon",
+      "butter or oil for cooking",
+      "toppings of your choice"
+    ],
+    "instructions": "Add all ingredients up to the butter or oil to a blender. Blend until smooth, adding a splash of milk if needed for a thinner consistency. Allow batter to rest for at least 5 minutes. It may seem runny at first, but it will thicken as it rests, resulting in firmer pancakes. Heat pan or griddle to low-medium heat and add oil or butter. When the pan is hot, pour desired amount of batter onto pan (This recipe should make about 8 small pancakes). Cook about 3 minutes then flip and cook for an additional 1-2 minutes. These pancakes are fairly moist so you may need to adjust the time as needed. Add desired toppings and enjoy!"
+  },
+  {
+    "id": "tofu-pancakes",
+    "title": "Tofu Pancakes",
+    "description": "High-protein vegan pancakes that are surprisingly fluffy",
+    "image": "recipe-data/images/tofu-pancakes.jpg",
+    "tags": ["breakfast", "vegan", "protein"],
+    "prepTime": "15 minutes",
+    "servings": 2,
+    "ingredients": [
+      "16 oz silken tofu",
+      "1 egg or 1/4 c egg whites",
+      "1/3 cup milk (more if needed)",
+      "2 1/2 cup raw rolled oats",
+      "2 tsp baking powder",
+      "1/4 tsp salt",
+      "3 tbsp sweetener",
+      "1 tsp vanilla extract",
+      "oil or butter for cooking",
+      "toppings of your choosing"
+    ],
+    "instructions": "Add all ingredients except the oil or butter to a blender and blend until smooth. Heat pan or griddle to low-medium heat and add oil or butter. When the pan is hot, pour desired amount of batter onto pan (This recipe should make about 10 small pancakes). Cook about 5 minutes then flip and cook for an additional 1-2 minutes. These pancakes are fairly moist so you may need to add a couple extra minutes. Add desired toppings and enjoy!"
+  },
+  {
+    "id": "whole-wheat-pancakes",
+    "title": "Whole Wheat Pancakes",
+    "description": "Classic fluffy pancakes with added nutrition",
+    "image": "recipe-data/images/whole-wheat-pancakes.jpg",
+    "tags": ["breakfast", "healthy"],
+    "prepTime": "15 minutes",
+    "servings": 2,
+    "ingredients": [
+      "1 cup milk of choice",
+      "1 egg",
+      "2 tablespoons oil or melted butter",
+      "2 tablespoons sweetener",
+      "1 teaspoon vanilla extract",
+      "1 cup whole wheat flour",
+      "1 1/2 teaspoons baking powder",
+      "1/2 teaspoon baking soda",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon ground cinnamon",
+      "oil or butter for cooking"
+    ],
+    "instructions": "Stir wet ingredients into a medium bowl. Stir dry ingredients into a bigger bowl. Add the wet ingredients to the dry ingredients and stir until just combined (You should still have some lumps). Heat a pan or griddle on low-medium heat. Add the oil or butter. Scoop desired amount of batter onto pan and cook for 3-4 minutes, or until small bubbles start to form and pop on the surface of the pancakes. Flip and cook for another 1-2 minutes. You should be able to make 8-10 small pancakes."
+  },
+  {
+    "id": "egg-burritos",
+    "title": "Egg Burritos (or Tacos)",
+    "description": "Customizable breakfast wraps perfect for meal prep",
+    "image": "recipe-data/images/egg-burritos.jpg",
+    "tags": ["breakfast", "meal-prep", "protein"],
+    "prepTime": "15 minutes",
+    "servings": 2,
+    "ingredients": [
+      "5 eggs or 1 C egg whites",
+      "splash of milk (optional)",
+      "2 medium-sized flour tortillas or 4 corn tortillas",
+      "salt and pepper, to taste",
+      "garlic powder (optional)",
+      "oil for cooking",
+      "optional mix-ins: chopped bell pepper, chopped spinach or kale, sliced mushrooms, meat, etc.",
+      "optional toppings: salsa, avocado, hot sauce, cheese, diced tomato, etc."
+    ],
+    "instructions": "Beat the eggs and milk (if using) in a bowl. Heat a pan over medium and add oil. If using any mix-ins, cook those now. Once mix-ins are cooked to your preference, pour in the egg mixture and add desired spices. Lower heat to low-medium and stir constantly until eggs are cooked to your desired consistency. Heat the tortillas in another skillet or the microwave, then serve with the eggs and desired toppings."
+  },
+  {
+    "id": "huevos-rancheros",
+    "title": "Huevos Rancheros",
+    "description": "Classic Mexican breakfast with fried eggs and seasoned beans",
+    "image": "recipe-data/images/huevos-rancheros.jpg",
+    "tags": ["breakfast", "mexican", "protein"],
+    "prepTime": "15 minutes",
+    "servings": 2,
+    "ingredients": [
+      "4 whole eggs",
+      "4 corn tortillas",
+      "1 can beans, drained (15 oz.)- black or pinto work best",
+      "optional seasonings for the beans: salt and pepper, chili powder, cumin, tajin, smoked paprika, garlic powder",
+      "salsa",
+      "avocado",
+      "cheese (optional)",
+      "oil for cooking"
+    ],
+    "instructions": "Heat a skillet over medium-high heat and add the oil. When the pan is hot, crack the eggs and fry them to desired firmness. Put eggs on a plate and cook tortillas in the same pan. Transfer the tortillas to the plate and put the beans in the skillet. Season the beans as desired and cook until most of the liquid has evaporated. Place the beans on the plate, add salsa and other desired toppings, and dig in!"
+  },
+  {
+    "id": "scrambled-chilaquiles",
+    "title": "Scrambled \"Chilaquiles\"",
+    "description": "A kid-friendly take on the classic Mexican dish",
+    "image": "recipe-data/images/chilaquiles.jpg",
+    "tags": ["breakfast", "mexican", "quick"],
+    "prepTime": "15 minutes",
+    "servings": 2,
+    "ingredients": [
+      "4 whole eggs",
+      "4 corn tortillas",
+      "Salsa to taste",
+      "Toppings: avocado, cheese, cooked beans, bell pepper",
+      "oil for cooking"
+    ],
+    "instructions": "Heat a skillet over medium-high heat and add the oil. Cut the corn tortillas into bite-sized pieces and fry in the skillet until lightly browned. Crack the eggs into the pan and stir to combine with the tortillas. Add the salsa and mix again. Once eggs are fully cooked, serve with desired toppings and enjoy!"
+  },
+  {
+    "id": "un-boring-oatmeal",
+    "title": "Un-boring Oatmeal",
+    "description": "Elevated oatmeal with endless topping possibilities",
+    "image": "recipe-data/images/oatmeal.jpg",
+    "tags": ["breakfast", "healthy", "fiber"],
+    "prepTime": "15 minutes",
+    "servings": 2,
+    "ingredients": [
+      "2 C water",
+      "1 pinch of salt",
+      "1 C rolled oats",
+      "1 tbsp butter (optional, but super helpful)",
+      "2 tbsp sweetener",
+      "1/8 tsp cinnamon",
+      "topping combo ideas: peanut butter, banana, and chocolate chips; diced apples, pumpkin seeds and maple syrup; berries and chia seeds; fried egg and avocado (savory option)"
+    ],
+    "instructions": "Bring the water and salt to a boil in a saucepan. Stir in the oats and reduce the heat to medium. Add in the butter, sweetener, and cinnamon. Stir constantly until the oatmeal reaches your desired consistency. The longer it cooks, the more dense and mushy it will be. Add desired toppings and enjoy!"
+  },
+  {
+    "id": "multigrain-cooked-cereal",
+    "title": "Multigrain Cooked Cereal",
+    "description": "Hearty breakfast cereal packed with whole grains",
+    "image": "recipe-data/images/multigrain-cereal.jpg",
+    "tags": ["breakfast", "healthy", "meal-prep"],
+    "prepTime": "40 minutes",
+    "servings": 10,
+    "ingredients": [
+      "4 cups total of any combination of the following: oat groats, quinoa, brown rice, barley, rye, wheat berries, black lentils",
+      "Optional mix-ins: 1/2 cup pumpkin seeds, 1/3 cup chia seeds, 1/3 cup flax seeds",
+      "8 cups water"
+    ],
+    "instructions": "Place all ingredients into the Instant Pot and set on high pressure for 30 minutes. Once done cooking, allow pressure to release naturally for 10 minutes. Serve with your choice of sweetener, milk, and fruit."
+  },
+  {
+    "id": "applesauce-grape-nuts-casserole",
+    "title": "Applesauce Grape-Nuts Casserole",
+    "description": "Comforting breakfast casserole perfect for chilly mornings",
+    "image": "recipe-data/images/applesauce-casserole.jpg",
+    "tags": ["breakfast", "comfort-food"],
+    "prepTime": "40 minutes",
+    "servings": 4,
+    "ingredients": [
+      "4 cups applesauce",
+      "4 cups Grape-Nuts (more if desired)",
+      "Cinnamon",
+      "Cream, milk, or coconut milk to taste"
+    ],
+    "instructions": "Preheat oven to 350 degrees F. Pour applesauce into a casserole pan and spread evenly. Scatter Grape-Nuts over applesauce and sprinkle cinnamon on top. Bake for 15-20 minutes, or until warmed through. Serve with cream, milk, or coconut milk!"
+  },
+  {
+    "id": "breakfast-parfait",
+    "title": "Breakfast Parfait",
+    "description": "Layered breakfast with yogurt, granola, and fruit",
+    "image": "recipe-data/images/breakfast-parfait.jpg",
+    "tags": ["breakfast", "healthy", "quick"],
+    "prepTime": "40 minutes",
+    "servings": 2,
+    "ingredients": [
+      "2 cups Greek yogurt",
+      "1 cup Hearty Granola",
+      "1 cup fruit such as: fresh or frozen and thawed berries, sliced bananas, diced mango, sliced apples, Spiced Apple Compote, Berry Compote"
+    ],
+    "instructions": "Layer ingredients as desired in a bowl or cup."
+  },
+  {
+    "id": "peanut-butter-chocolate-smoothie",
+    "title": "Peanut Butter Chocolate Smoothie",
+    "description": "Protein-rich smoothie that tastes like a milkshake",
+    "image": "recipe-data/images/pb-chocolate-smoothie.jpg",
+    "tags": ["breakfast", "protein", "quick"],
+    "prepTime": "5 minutes",
+    "servings": 2,
+    "ingredients": [
+      "1 ripe banana",
+      "2-3 cups milk (more if needed)",
+      "1/3 cup peanut butter",
+      "1-2 scoops chocolate protein powder (or 2 tbsp cocoa powder)",
+      "1 cup chopped kale or spinach",
+      "Optional nutrition boosters: 1 tbsp chia seeds, 1 tbsp flax seeds"
+    ],
+    "instructions": "Add all ingredients to a blender and blend until smooth."
+  },
+  {
+    "id": "berry-banana-smoothie",
+    "title": "Berry Banana Smoothie",
+    "description": "Antioxidant-rich smoothie with hidden greens",
+    "image": "recipe-data/images/berry-banana-smoothie.jpg",
+    "tags": ["breakfast", "healthy", "quick"],
+    "prepTime": "5 minutes",
+    "servings": 2,
+    "ingredients": [
+      "1 ripe banana",
+      "2-3 cups milk (more if needed)",
+      "1 cup frozen berries",
+      "1 cup chopped kale or spinach",
+      "1-2 scoops vanilla protein powder (optional)",
+      "1 cup greek yogurt (optional)",
+      "Optional nutrition boosters: 1 tbsp chia seeds, 1 tbsp flax seeds, 1 tbsp beetroot powder"
+    ],
+    "instructions": "Add all ingredients to a blender and blend until smooth."
+  },
+  {
+    "id": "tropical-smoothie",
+    "title": "Tropical Smoothie",
+    "description": "Transport yourself to the tropics with this refreshing smoothie",
+    "image": "recipe-data/images/tropical-smoothie.jpg",
+    "tags": ["breakfast", "healthy", "tropical"],
+    "prepTime": "5 minutes",
+    "servings": 2,
+    "ingredients": [
+      "1 ripe banana",
+      "2-3 cups milk (more if needed)",
+      "3/4 cup frozen mango",
+      "1/2 cup pineapple chunks",
+      "1 cup chopped kale or spinach",
+      "1-2 scoops vanilla protein powder (optional)",
+      "1 cup Greek yogurt",
+      "Optional nutrition boosters: 1 tbsp chia seeds, 1 tbsp flax seeds, 1-inch chunk fresh ginger"
+    ],
+    "instructions": "Add all ingredients to a blender and blend until smooth."
+  },
+  {
+    "id": "indian-butter-chicken",
+    "title": "Indian Butter Chicken",
+    "description": "Rich and creamy Indian curry made easy in the Instant Pot",
+    "image": "recipe-data/images/butter-chicken.jpg",
+    "tags": ["dinner", "indian", "instant-pot"],
+    "prepTime": "45 minutes",
+    "servings": 10,
+    "ingredients": [
+      "2 14- ounce cans diced tomatoes",
+      "9 cloves minced garlic or 3 tsp garlic powder",
+      "3 tsp minced ginger or 1 tsp ginger powder",
+      "2 tsp turmeric powder",
+      "2 tsp smoked paprika",
+      "2 tsp garam masala or curry powder",
+      "2 tsp ground cumin",
+      "1 tsp salt",
+      "1 tsp cayenne powder (optional)",
+      "2 lbs frozen chicken thighs or breasts",
+      "To add after cooking: 4 tbsp butter or coconut oil, 8 oz coconut milk, 1 14-oz can chickpeas, 2 tsp garam masala, 1/2 cup chopped cilantro (optional)"
+    ],
+    "instructions": "Place tomatoes and spices into the instant pot and stir. Add the chicken and set the cooker for 15 minutes on high pressure. Once the cooker is finished, allow the pressure to naturally release for 10 minutes. Remove the chicken and cut into bite-sized chunks (or use a fork to separate). Blend together the rest of what's in the cooker with an immersion blender. Alternatively, pour into a regular blender and blend until smooth. Allow the sauce to cook for a couple of minutes- this will help the sauce stay thicker when you add the butter and coconut milk later. Put the blended sauce and chicken chunks back into the pot and add the butter, coconut milk, chickpeas, garam masala, and cilantro. Stir until everything is incorporated and serve over rice!"
+  },
+  {
+    "id": "arroz-con-pollo",
+    "title": "Arroz con Pollo",
+    "description": "One-pot Spanish rice and chicken dish",
+    "image": "recipe-data/images/arroz-con-pollo.jpg",
+    "tags": ["dinner", "spanish", "one-pot"],
+    "prepTime": "40 minutes",
+    "servings": 6,
+    "ingredients": [
+      "2 tablespoons oil",
+      "1 1/2 lbs. chicken breasts or boneless thighs, diced",
+      "1 cup chopped onion",
+      "1 cup chopped bell peppers",
+      "1 cup celery chopped",
+      "1 tablespoon garlic minced",
+      "2 teaspoon cumin powder",
+      "1/2 tsp oregano",
+      "1/2 tsp turmeric powder",
+      "1/4 tsp black pepper",
+      "1/4 tsp smoked paprika",
+      "1 tsp salt",
+      "2 bay leaves",
+      "1/4 cup chopped cilantro",
+      "2 cups chicken broth or water",
+      "14.5 oz. diced tomatoes (1 can)",
+      "1 1/2 cups rice (jasmine or basmati tastes best)",
+      "1 cup frozen peas or frozen mixed veggies"
+    ],
+    "instructions": "Press the Sauté button on the instant pot and add oil. Once the oil is hot, add chicken and cook until golden brown (around 5 minutes). Transfer cooked chicken to a bowl. Add a bit of water or broth to the pot, then add onions, bell peppers, celery, and garlic. Stir until onion is translucent. Press the Cancel button, then add all the spices except the cilantro, stir and cook for about 30 seconds. Add a little more liquid if it sticks to the pan. Stir in the chicken broth, cooked chicken, and half of the chopped cilantro. Pour in the can of tomatoes (with the liquid) and spread out but don't stir. Add the rice and push it down until it's immersed, but don't stir in. Put the lid on and pressure cook for 6 minutes, then allow pressure to release naturally for 10 minutes. When pressure is released, stir in the frozen veggies and the remainder of the cilantro."
+  },
+  {
+    "id": "vegan-chili",
+    "title": "Vegan (or not) Chili",
+    "description": "Hearty bean chili that's satisfying with or without meat",
+    "image": "recipe-data/images/vegan-chili.jpg",
+    "tags": ["dinner", "vegan", "healthy"],
+    "prepTime": "30 minutes",
+    "servings": 12,
+    "ingredients": [
+      "2 Beyond Beef patties or 1 lb. ground beef",
+      "1 onion, diced",
+      "1 bell pepper (yellow, orange, or red), diced",
+      "1 tsp ground cumin",
+      "1 tsp garlic powder",
+      "2 tsp smoked paprika",
+      "1 tbsp chili powder",
+      "salt and pepper to taste",
+      "3 14-oz cans diced or crushed tomatoes",
+      "2 14-0z cans black beans",
+      "3 14-oz cans other beans (kidney, pinto, and cannellini)",
+      "1 14-oz can corn"
+    ],
+    "instructions": "Press the Sauté button on the instant pot and place the patties or ground beef in. Cook until browned, breaking it up into tiny pieces. Remove the meat and place in a separate bowl. Add a splash of water to the pot to unstick any meat bits, then add in the onions and bell pepper. Cook until onions are translucent. Add the meat back to the onion mixture, then stir in all the spices. Dump in all the cans, stir, and continue cooking until heated through. If you want more depth of flavor, push the slow cook button on the Instant Pot and set for 2-3 hours. This will allow the flavors to combine more."
+  },
+  {
+    "id": "taco-soup",
+    "title": "Taco Soup",
+    "description": "Easy one-pot soup with all your favorite taco flavors",
+    "image": "recipe-data/images/taco-soup.jpg",
+    "tags": ["dinner", "soup", "mexican"],
+    "prepTime": "40 minutes",
+    "servings": 10,
+    "ingredients": [
+      "1-2 lbs frozen chicken breasts or thighs (depending on the ratio you prefer)",
+      "4 15-oz cans of beans such as: black beans, pinto beans, cannellini beans, kidney beans",
+      "2 15-oz cans corn",
+      "3 15-oz cans diced tomatoes",
+      "2 tsp garlic powder",
+      "2 tsp smoked paprika",
+      "1 tbsp chili powder",
+      "2 tsp cumin",
+      "salt to taste",
+      "Optional toppings: cilantro, avocado, tortilla chips or strips, plain Greek yogurt or sour cream, cheese"
+    ],
+    "instructions": "Add all ingredients except for the toppings to the instant pot and cook on high pressure for 15 minutes. Shred the chicken with a fork, then serve into bowls and add desired toppings."
+  },
+  {
+    "id": "crispy-tofu-rice-bowls",
+    "title": "Crispy Tofu Rice Bowls",
+    "description": "Asian-inspired bowls with crispy tofu and savory sauce",
+    "image": "recipe-data/images/crispy-tofu-bowls.jpg",
+    "tags": ["dinner", "vegan", "asian"],
+    "prepTime": "30 minutes",
+    "servings": 4,
+    "ingredients": [
+      "1-2 cups cooked rice",
+      "2 cups cooked broccoli",
+      "For the Tofu: 28 oz extra firm tofu, 4 tbsp corn starch, 1 1/2 tsp salt, oil for cooking",
+      "Sauce for the tofu: 4 tbsp soy sauce, 1 tsp garlic powder, 2 tsp rice vinegar, 1 tbsp cornstarch, 1/2 cup water"
+    ],
+    "instructions": "Drain and pat the tofu dry, then tear into bite-sized chunks (you can also slice or cube the tofu if preferred). Place tofu chunks into a bowl and sprinkle corn starch and salt over them. Toss or stir until the tofu is well-coated. Heat oil in a skillet over medium-high heat. Use more oil if you want crispier tofu. Place as much tofu as will fit in the pan in a single layer without the pieces touching. You may need to cook them in a couple batches to ensure crispiness. Mix the sauce ingredients together in a bowl and set aside. Once all the tofu is crispy, add the sauce and continue to cook until sauce is warm and at desired consistency. Serve over rice and broccoli."
+  },
+  {
+    "id": "mexican-rice-bowls",
+    "title": "Mexican Rice Bowls",
+    "description": "Build-your-own burrito bowls with endless customization",
+    "image": "recipe-data/images/mexican-rice-bowls.jpg",
+    "tags": ["dinner", "mexican", "customizable"],
+    "prepTime": "30 minutes",
+    "servings": 2,
+    "ingredients": [
+      "1-2 cups cooked rice",
+      "1-2 cups cooked beans",
+      "Topping options: shredded chicken, cooked ground beef, salsa, Pico de Gallo, guacamole, lettuce, cheese, plain Greek yogurt or sour cream"
+    ],
+    "instructions": "Place rice and beans in a bowl and add desired toppings!"
+  },
+  {
+    "id": "greek-bowls",
+    "title": "Greek Bowls",
+    "description": "Mediterranean-inspired bowls with Greek flavors",
+    "image": "recipe-data/images/greek-bowls.jpg",
+    "tags": ["dinner", "mediterranean", "healthy"],
+    "prepTime": "45 minutes",
+    "servings": 2,
+    "ingredients": [
+      "1-2 cups cubed potatoes (sub fresh greens if desired)",
+      "1-2 cups cubed Greek chicken",
+      "1/2 cup sliced grape or cherry tomatoes",
+      "1/2 cup chopped cucumber",
+      "1/4 cup finely sliced red onion",
+      "1 cup hummus",
+      "Optional: Greek dressing, Crumbled feta cheese, Sliced kalamata olives (can sub black olives), Couscous or cooked whole grains, Tzatziki sauce"
+    ],
+    "instructions": "Preheat oven to 425 degrees F. Mix cubed potatoes with oil, salt, and pepper, then place on a cookie sheet and cook for 45 minutes, or until desired tenderness is reached. Place cooked potatoes in a bowl and top with the remaining ingredients."
+  },
+  {
+    "id": "italian-pasta-salad",
+    "title": "Italian Pasta Salad",
+    "description": "Classic pasta salad with Italian flavors",
+    "image": "recipe-data/images/italian-pasta-salad.jpg",
+    "tags": ["lunch", "pasta", "italian"],
+    "prepTime": "20 minutes",
+    "servings": 10,
+    "ingredients": [
+      "1 8-oz box chickpea pasta",
+      "1/2 cup sundried tomatoes",
+      "1 cup halved cherry tomatoes",
+      "1 cup chopped cucumber",
+      "1 chopped bell pepper",
+      "1/2 cup sliced black olives",
+      "1/2 cup chopped red onion",
+      "1/2 to 1 cup Creamy Italian Dressing",
+      "Optional, but super tasty: 1/4 cup capers"
+    ],
+    "instructions": "Cook pasta according to package directions, and prepare remaining ingredients while the pasta cooks. Drain pasta and rinse with cool water. Place in a large serving bowl. Add the remaining ingredients, toss, and serve!"
+  },
+  {
+    "id": "greek-pasta-salad",
+    "title": "Greek Pasta Salad",
+    "description": "Mediterranean pasta salad with feta and olives",
+    "image": "recipe-data/images/greek-pasta-salad.jpg",
+    "tags": ["lunch", "pasta", "greek"],
+    "prepTime": "20 minutes",
+    "servings": 10,
+    "ingredients": [
+      "1 8-oz box chickpea pasta",
+      "1/2 cup sundried tomatoes",
+      "1 cup halved cherry tomatoes",
+      "1 cup chopped cucumber",
+      "1/2 cup sliced kalamata olives",
+      "1/2 cup chopped red onion",
+      "1/2 to 1 cup Greek Salad Dressing",
+      "1/2 cup crumbled feta"
+    ],
+    "instructions": "Cook pasta according to package directions, and prepare remaining ingredients while the pasta cooks. Drain pasta and rinse with cool water. Place in a large serving bowl. Add the remaining ingredients, toss, and serve!"
+  },
+  {
+    "id": "savory-potato-salad",
+    "title": "Savory Potato Salad",
+    "description": "Classic potato salad that's never sweet",
+    "image": "recipe-data/images/potato-salad.jpg",
+    "tags": ["side", "potato", "classic"],
+    "prepTime": "20 minutes",
+    "servings": 10,
+    "ingredients": [
+      "10 small or 5 large potatoes (russet work best, but any kind will do)",
+      "5 boiled eggs",
+      "3 whole large kosher dill pickles",
+      "2 stalks of celery",
+      "1/2 cup mayo (NOT MIRACLE WHIP!)",
+      "1 tbsp mustard",
+      "1 tsp garlic powder",
+      "salt and pepper to taste",
+      "pickle juice or apple cider vinegar to taste",
+      "chives or dill to garnish (optional)"
+    ],
+    "instructions": "Clean and chop the potatoes into bite-sized pieces, then place in a large pot and fill with cold water until potatoes are covered. Place on the stove over high heat. Once the water is boiling, turn the heat down to low and let simmer for 5 minutes. Check to see if the potatoes are done (if you can easily pierce them with a fork, they're done). If not, add a few more minutes. Drain the potatoes and rinse with cool water. Chop the boiled eggs, pickles, and celery into desired size and add to a large bowl. Stir in the rest of the ingredients, then add the potatoes."
+  },
+  {
+    "id": "california-rolls",
+    "title": "Easy \"California Rolls\"",
+    "description": "Homemade sushi rolls that are easier than you think",
+    "image": "recipe-data/images/california-rolls.jpg",
+    "tags": ["lunch", "japanese", "seafood"],
+    "prepTime": "45 minutes",
+    "servings": 10,
+    "ingredients": [
+      "2 cups sushi rice (or other white rice in a pinch)",
+      "2 cups water",
+      "1/2 cup seasoned rice vinegar",
+      "Optional: salt and sugar to taste",
+      "16 oz package imitation crab",
+      "1/4 cup Mayo (more or less to taste)",
+      "1 cucumber, thinly sliced lengthwise",
+      "1 avocado, thinly sliced",
+      "10 sheets sushi nori"
+    ],
+    "instructions": "Rinse rice thoroughly, then place in instant pot with the water and cook on \"Rice\" setting. Allow pressure to naturally release for 10 minutes. If adding salt and sugar, sprinkle it into the vinegar and microwave for about 30 seconds, then stir to dissolve. Transfer rice to a large bowl or other container and gently mix in the vinegar. Allow to cool (I like my sushi rice still slightly warm-unconventional but delicious!) Prepare veggies and set aside. Chop imitation crab finely and mix with mayo. Place a sushi nori sheet on a sushi mat or other flexible mat (even a gallon size plastic bag works!) Wet your hands, then place desired amount of rice on the sushi nori, patting with your hands until it's spread evenly. Place desired amount of crab mixture and veggies on the rice, then roll, cut, and enjoy!"
+  },
+  {
+    "id": "pizza-meeka",
+    "title": "Pizza",
+    "description": "Homemade pizza with your choice of toppings",
+    "image": "recipe-data/images/pizza.jpg",
+    "tags": ["dinner", "italian", "customizable"],
+    "prepTime": "1-2 hrs",
+    "servings": 10,
+    "ingredients": [
+      "1 batch Yeasted Pizza Dough, Protein Pizza Dough or No-rise Pizza Dough",
+      "1 15-oz can tomato sauce",
+      "Italian seasoning or basil and oregano (fresh or dried)",
+      "Toppings: mozarella cheese, pepperoni, cooked sausage, bell pepper, onion, mushrooms, artichoke hearts, sundried tomatoes, olives"
+    ],
+    "instructions": "Prepare dough and set aside (make ahead if using yeasted dough so it will have time to rise). Mix tomato sauce with desired amount of spices. If you have time, place in a saucepan and cook down over low heat to bring out the flavors. Cut veggies if using and prepare all other desired toppings. Preheat oven to 450 degrees F. Roll out the pizza dough and place on greased pizza pans or cookie sheets. Spread the sauce, then place toppings. Cook for 20-25 minutes, or until cheese is bubbly and toppings are cooked."
+  },
+  {
+    "id": "sheet-pan-dinner-meeka",
+    "title": "Sheet Pan Dinner",
+    "description": "One-pan meals with protein, carbs, and veggies",
+    "image": "recipe-data/images/sheet-pan-dinner.jpg",
+    "tags": ["dinner", "easy", "one-pan"],
+    "prepTime": "45 minutes",
+    "servings": "flexible",
+    "ingredients": [
+      "Per person from each of the following categories:",
+      "3/4 cup Protein: chicken, tofu, chickpeas",
+      "1/3 cup Carb: diced potatoes, diced sweet potatoes",
+      "1-2 cups Veggies: diced squash, chopped carrots, fresh green beans, asparagus, fresh broccoli florets, fresh cauliflower florets, brussels sprouts",
+      "Salt, Pepper, Garlic Powder"
+    ],
+    "instructions": "Preheat the oven to 400 degrees F. Prepare desired ingredients and place on a large sheet pan. (Feel free to cook the protein separately as proteins and veggies often have different cooking times.) Drizzle with olive oil and toss to coat everything, then sprinkle salt and spices over the top. Bake for 45 minutes (may need more or less time depending on the size of the chunks)."
+  },
+  {
+    "id": "chia-pudding-meeka",
+    "title": "Chia Pudding",
+    "description": "Make-ahead pudding that's perfect for breakfast or snacks",
+    "image": "recipe-data/images/chia-pudding.jpg",
+    "tags": ["breakfast", "healthy", "make-ahead"],
+    "prepTime": "5 min + overnight chill",
+    "servings": 2,
+    "ingredients": [
+      "4 Tablespoons chia seeds",
+      "1 cup milk of choice",
+      "1/2 Tablespoon sweetener",
+      "topping ideas: mango and coconut milk, sliced banana and nuts, granola and dried fruit or berries"
+    ],
+    "instructions": "Stir chia seeds, milk, and sweetener together in a bowl, mason jar, or other container. Make sure there are no clumps of seeds. Place in the fridge and allow to set overnight. Add toppings of your choice and enjoy!"
+  },
+  {
+    "id": "mango-coconut-rice",
+    "title": "Mango Coconut Rice",
+    "description": "Thai-inspired sweet rice with tropical flavors",
+    "image": "recipe-data/images/mango-coconut-rice.jpg",
+    "tags": ["side", "thai", "tropical"],
+    "prepTime": "20 minutes",
+    "servings": 4,
+    "ingredients": [
+      "1 cup jasmine, basmati, or other white rice",
+      "3/4 cup canned coconut milk",
+      "3/4 cup water",
+      "1/4 tsp salt",
+      "To top: fresh or thawed frozen mango chunks, coconut flakes"
+    ],
+    "instructions": "Place all ingredients in the Instant Pot and cook on high pressure for 4 minutes. Allow pressure to release naturally for 10 minutes. Serve with mango chunks and coconut flakes."
+  },
+  {
+    "id": "peanut-butter-balls-meeka",
+    "title": "Peanut Butter Balls",
+    "description": "No-bake energy balls perfect for snacking",
+    "image": "recipe-data/images/peanut-butter-balls.jpg",
+    "tags": ["snack", "no-bake", "healthy"],
+    "prepTime": "5 minutes",
+    "servings": 20,
+    "ingredients": [
+      "2 cups rolled oats",
+      "1 cup peanut butter",
+      "1/2 cup honey or agave",
+      "2 tbsp flaxseed",
+      "Optional mix-ins: 1/4 cup coconut flakes, 1/4 cup chocolate chips, 1/4 cup pumpkin seeds"
+    ],
+    "instructions": "Place all ingredients in a bowl and mix thoroughly. Roll into bite-sized balls and store in the refrigerator or freezer."
+  },
+  {
+    "id": "vietnamese-spring-rolls",
+    "title": "Vietnamese Spring Rolls",
+    "description": "Fresh and healthy rice paper rolls with dipping sauce",
+    "image": "recipe-data/images/spring-rolls.jpg",
+    "tags": ["lunch", "vietnamese", "healthy"],
+    "prepTime": "15 minutes",
+    "servings": "flexible",
+    "ingredients": [
+      "Rice paper (4 sheets per person)",
+      "Veggie options: Cucumber, sliced into thin spears; Thinly sliced carrots; Shredded cabbage",
+      "Protein options: crispy tofu, cooked shrimp, cooked chicken, shelled edamame",
+      "Extras: vermicelli noodles, lettuce leaves (for holding the rolls)"
+    ],
+    "instructions": "Cook your protein choice if needed, then place in a bowl or other container. If using, prep noodles according to package directions. Prep all the veggies and lay them out in bowls or plates so they're ready to use. Fill a large bowl or other container with warm water. Dip one rice paper sheet in so that the entire sheet is wet. This should only take about 5 seconds per sheet (it gets too flimsy if you let it sit longer.) Place the wet rice paper on a plate and put the desired protein, veggies and noodles in the center, ensuring plenty of room around the edges. Roll the rice paper around the filling as you would a burrito, tucking the ends in so they stick together. Place spring roll on a leaf of lettuce to keep it from sticking to the plate or other rolls. Repeat with all remaining ingredients and serve with dipping sauce."
+  },
+  {
+    "id": "spiced-apple-compote",
+    "title": "Spiced Apple Compote",
+    "description": "Warm apple topping perfect for pancakes and oatmeal",
+    "image": "recipe-data/images/apple-compote.jpg",
+    "tags": ["topping", "apple", "fall"],
+    "prepTime": "15 minutes",
+    "servings": 2,
+    "ingredients": [
+      "1 large apple",
+      "1/3 C water",
+      "2 tbsp sweetener (honey, agave, or maple syrup works best)",
+      "pinch of cinnamon",
+      "1 tsp corn starch + 1 tbsp water"
+    ],
+    "instructions": "Chop the apple into small, thin chunks. Add apple, water, sweetener and cinnamon to a saucepan and cook over medium heat until the apples are soft. Mix the cornstarch and tbsp of water, then stir into the apple mixture. Turn the heat to low and let simmer until the mixture thickens to a syrup."
+  },
+  {
+    "id": "berry-compote",
+    "title": "Berry Compote",
+    "description": "Sweet berry sauce perfect for pancakes and yogurt",
+    "image": "recipe-data/images/berry-compote.jpg",
+    "tags": ["topping", "berry", "sauce"],
+    "prepTime": "10-15 minutes",
+    "servings": 2,
+    "ingredients": [
+      "1 C frozen berries (any kind)",
+      "1 C water",
+      "3 tbsp sweetener (honey, agave, or maple syrup works best)",
+      "1/4 tsp lemon juice (optional)",
+      "1 tsp corn starch + 1 tbsp water"
+    ],
+    "instructions": "Put the berries, water, and sweetener into a saucepan over medium heat. Cook until the water starts to simmer, then smash the berries with a fork or a potato masher. Add in the lemon juice if desired. Mix the cornstarch and tbsp of water, then stir into the berry mixture. Turn the heat to low and let simmer until the mixture thickens to a syrup."
+  },
+  {
+    "id": "blended-cottage-cheese-spread",
+    "title": "Blended Cottage Cheese Spread",
+    "description": "Protein-rich spread for pancakes and toast",
+    "image": "recipe-data/images/cottage-cheese-spread.jpg",
+    "tags": ["topping", "protein", "healthy"],
+    "prepTime": "2 minutes",
+    "servings": 2,
+    "ingredients": [
+      "1 C cottage cheese",
+      "sweetener of choice to taste",
+      "1/4 tsp vanilla extract (optional)"
+    ],
+    "instructions": "Place all ingredients in a blender and blend until smooth. Alternatively, place ingredients in a bowl and use a hand blender."
+  },
+  {
+    "id": "date-caramel-spread",
+    "title": "Date \"Caramel\" Spread",
+    "description": "Natural sweetener spread made from dates",
+    "image": "recipe-data/images/date-caramel.jpg",
+    "tags": ["topping", "natural", "sweet"],
+    "prepTime": "2 minutes",
+    "servings": 6,
+    "ingredients": [
+      "1 cup pitted dried dates (I prefer Medjool, but any kind will do!)",
+      "1 cup boiling water",
+      "1/4 tsp sea salt (optional)"
+    ],
+    "instructions": "Place all ingredients in a blender and blend until smooth. Add more hot water if a thinner consistency is desired."
+  },
+  {
+    "id": "pico-de-gallo",
+    "title": "Pico de Gallo",
+    "description": "Fresh Mexican salsa with tomatoes and cilantro",
+    "image": "recipe-data/images/pico-de-gallo.jpg",
+    "tags": ["mexican", "fresh", "healthy"],
+    "prepTime": "5 minutes",
+    "servings": 8,
+    "ingredients": [
+      "8 small or 4 large tomatoes, finely diced",
+      "1 onion, finely diced",
+      "1-2 jalapeno or serrano peppers, finely diced",
+      "1/3 to 1/2 cup chopped cilantro",
+      "1/4 cup lime juice",
+      "1 tsp salt",
+      "1 tsp garlic powder"
+    ],
+    "instructions": "Place all ingredients in a bowl and stir! The salt, garlic powder, and lime juice may need adjusted according to your preferences."
+  },
+  {
+    "id": "guacamole-meeka",
+    "title": "Guacamole",
+    "description": "Creamy avocado dip with Greek yogurt boost",
+    "image": "recipe-data/images/guacamole.jpg",
+    "tags": ["mexican", "dip", "healthy"],
+    "prepTime": "5 minutes",
+    "servings": 4,
+    "ingredients": [
+      "2 ripe avocados",
+      "1/3-1/2 cup plain Greek yogurt",
+      "1/8 cup lemon or lime juice",
+      "1/2 tsp garlic powder",
+      "salt and pepper to taste",
+      "red pepper flakes to taste (optional)"
+    ],
+    "instructions": "Place all ingredients in a bowl and mash well. The garlic powder and lemon or lime juice may need adjusted according to your preferences."
+  },
+  {
+    "id": "hummus-meeka",
+    "title": "Hummus",
+    "description": "Creamy chickpea dip perfect for vegetables",
+    "image": "recipe-data/images/hummus.jpg",
+    "tags": ["mediterranean", "dip", "protein"],
+    "prepTime": "5 minutes",
+    "servings": 8,
+    "ingredients": [
+      "2 cans chickpeas, drained (SAVE THE LIQUID)",
+      "2 tbsp lemon juice",
+      "1 tsp garlic powder",
+      "1/4 tsp ground cumin",
+      "1 tsp salt",
+      "6 tbsp olive oil"
+    ],
+    "instructions": "Place chickpeas and 1/4 cup of the liquid in a blender along with the lemon juice and spices. blend until smooth, adding a bit more chickpea liquid if it's too thick. With the blender still going, drizzle in the olive oil, adding more or less depending on how thin you want the consistency."
+  },
+  {
+    "id": "tzatziki",
+    "title": "Tzatziki",
+    "description": "Greek yogurt sauce with cucumber and dill",
+    "image": "recipe-data/images/tzatziki.jpg",
+    "tags": ["greek", "sauce", "cooling"],
+    "prepTime": "5 minutes",
+    "servings": 4,
+    "ingredients": [
+      "1 cup Greek yogurt",
+      "1/2 cup grated cucumber (the finer the better)",
+      "2 tsp olive oil",
+      "1 tbsp lemon juice",
+      "1 tbsp chopped fresh dill (or 1 tsp dried dill)",
+      "1 tsp garlic powder",
+      "1/4 tsp salt"
+    ],
+    "instructions": "Place all ingredients in a bowl and stir!"
+  },
+  {
+    "id": "greek-dressing",
+    "title": "Greek Dressing",
+    "description": "Tangy dressing perfect for salads and bowls",
+    "image": "recipe-data/images/greek-dressing.jpg",
+    "tags": ["greek", "dressing", "tangy"],
+    "prepTime": "5 minutes",
+    "servings": 10,
+    "ingredients": [
+      "1/2 cup olive oil",
+      "1/3 cup red wine vinegar (can sub apple cider vinegar in a pinch)",
+      "1/2 tsp Dijon mustard",
+      "1 tsp garlic powder",
+      "1 tsp dried oregano",
+      "salt and pepper to taste"
+    ],
+    "instructions": "Place all ingredients into a bowl, jar, or other desired container and mix well."
+  },
+  {
+    "id": "creamy-italian-dressing",
+    "title": "Creamy Italian Dressing",
+    "description": "Rich and flavorful dressing with parmesan",
+    "image": "recipe-data/images/creamy-italian.jpg",
+    "tags": ["italian", "dressing", "creamy"],
+    "prepTime": "5 minutes",
+    "servings": 10,
+    "ingredients": [
+      "1/2 cup olive oil",
+      "1/4 cup apple cider vinegar (less if you don't like your dressing very acidic)",
+      "1/3 cup grated parmesan cheese",
+      "1-2 tbsp mayo (more if you want it creamier)",
+      "1 tsp garlic powder",
+      "1 tsp Italian seasoning (or combo of basil and oregano)",
+      "salt and pepper to taste"
+    ],
+    "instructions": "Place all ingredients into a bowl, jar, or other desired container and mix well."
+  },
+  {
+    "id": "peanut-sauce",
+    "title": "Peanut Sauce",
+    "description": "Thai-inspired peanut dipping sauce",
+    "image": "recipe-data/images/peanut-sauce.jpg",
+    "tags": ["thai", "sauce", "nutty"],
+    "prepTime": "5 minutes",
+    "servings": 8,
+    "ingredients": [
+      "1 tsp oil",
+      "2 cloves garlic, finely chopped",
+      "1/2 cup peanut butter",
+      "1/2 cup water",
+      "1/4 cup hoisin sauce (can substitute with mixture of 2 tbsp soy sauce, 1 tbsp lime juice, and 1 tbsp rice vinegar)",
+      "1 tsp agave or honey (if peanut butter is unsweetened)"
+    ],
+    "instructions": "Heat oil in a pan over medium heat and add garlic. Once garlic is fragrant, reduce heat and stir in remaining ingredients. Allow to gently bubble, being sure to not let the peanut butter burn. Once ingredients are well incorporated and warmed through, transfer to a bowl or other container and serve! Optional: garnish with sesame seeds if desired."
+  },
+  {
+    "id": "nuoc-cham",
+    "title": "Nuoc Cham",
+    "description": "Vietnamese dipping sauce with fish sauce and lime",
+    "image": "recipe-data/images/nuoc-cham.jpg",
+    "tags": ["vietnamese", "sauce", "tangy"],
+    "prepTime": "5 minutes",
+    "servings": 4,
+    "ingredients": [
+      "1/2 C warm water",
+      "4 tbsp lime juice",
+      "2 tbsp agave or honey",
+      "1 tsp unseasoned rice vinegar (more if desired)",
+      "3 tbsp fish sauce (can use soy sauce in a pinch, but it won't taste the same)",
+      "1 tbsp minced garlic",
+      "red pepper flakes, sliced Thai chili, or chili garlic sauce, to taste"
+    ],
+    "instructions": "Combine all ingredients in a bowl and mix until thoroughly combined. Adjust amounts of each ingredient as desired. Serve with Vietnamese Spring Rolls."
+  },
+  {
+    "id": "dessert-hummus",
+    "title": "Dessert Hummus",
+    "description": "Sweet chickpea dip perfect for fruit and treats",
+    "image": "recipe-data/images/dessert-hummus.jpg",
+    "tags": ["dessert", "sweet", "protein"],
+    "prepTime": "5 minutes",
+    "servings": 8,
+    "ingredients": [
+      "2 cans chickpeas, drained and rinsed well",
+      "1/2 cup honey, agave, or maple syrup",
+      "1 cup melted chocolate chips or 2/3 cup cocoa powder (feel free to adjust according to your taste)",
+      "1/2 cup melted coconut oil or peanut butter",
+      "1 tsp vanilla (optional)",
+      "1/2 tsp salt",
+      "4 tbsp milk (more if needed)"
+    ],
+    "instructions": "Add all ingredients to a blender and blend until smooth."
+  },
+  {
+    "id": "peanut-butter-yogurt-dip",
+    "title": "Peanut Butter Yogurt Dip",
+    "description": "High-protein dip perfect with fruit",
+    "image": "recipe-data/images/pb-yogurt-dip.jpg",
+    "tags": ["snack", "protein", "healthy"],
+    "prepTime": "5 minutes",
+    "servings": 2,
+    "ingredients": [
+      "1/2 cup peanut butter",
+      "1/2 cup Greek yogurt (plain or vanilla)",
+      "sweetener if needed, to taste"
+    ],
+    "instructions": "Add all ingredients to a bowl and mix well. Serve with sliced fruit."
+  },
+  {
+    "id": "soft-dinner-rolls",
+    "title": "Soft Dinner Rolls",
+    "description": "Fluffy homemade dinner rolls perfect for any meal",
+    "image": "recipe-data/images/dinner-rolls.jpg",
+    "tags": ["bread", "yeast", "side"],
+    "prepTime": "2.5 hours",
+    "servings": 24,
+    "ingredients": [
+      "4 cups whole wheat flour (more as needed)",
+      "1 tsp salt (1 1/2 if using unsalted butter or oil)",
+      "1 1/2 cups water or milk",
+      "1/2 cup melted butter or oil",
+      "1/4 cup honey, agave, or maple syrup",
+      "3 eggs",
+      "2 tbsp active dry or instant yeast"
+    ],
+    "instructions": "Mix wheat flour and salt together in a large bowl and set aside. In another bowl, mix together all wet ingredients, then sprinkle yeast over the top and stir in. Pour the mixture into the dry ingredients and mix well. When a dough begins to form, turn it out onto a floured surface and knead for 2-3 minutes, adding flour if dough is too sticky. Place the dough back in the bowl and cover with a cloth. Allow it to rise until doubled in size (30 min-1 hr. depending on how warm your environment is.) Once dough is risen, turn it onto the counter and knead a few times, then cut into 24 equal portions. Shape them into rolls, then place them on a cookie sheet and allow to rise again until doubled in size. Preheat the oven to 350 degrees F, then cook rolls for about 25 minutes. The tops should be golden brown."
+  },
+  {
+    "id": "naan-bread",
+    "title": "Naan Bread",
+    "description": "Soft Indian flatbread perfect with curry",
+    "image": "recipe-data/images/naan-bread.jpg",
+    "tags": ["bread", "indian", "flatbread"],
+    "prepTime": "2 hours",
+    "servings": 8,
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1 teaspoon instant or instant dry yeast",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon baking powder",
+      "2 tablespoon yogurt",
+      "3/4 cup warm water or milk",
+      "butter for brushing",
+      "garlic powder",
+      "chopped cilantro (optional- for garnish)"
+    ],
+    "instructions": "Place all dry ingredients into a bowl and mix to combine. Mix yogurt and milk together, then add to dry ingredients. Stir until everything is well incorporated, then knead dough until smooth (about 10 minutes- 5 if you're fast!) Place dough ball back in bowl and cover with a cloth. Allow to rise for about 2 hours or until dough has doubled in size (will rise faster in a warmer environment). Once dough is risen, separate into 8 portions and roll them out on a floured surface. Heat a skillet over high heat and place 1 rolled-out portion of dough in the pan and cover with a lid. Cook until bubbles form on the surface (1-2 minutes), then flip the naan bread and cook for about 1 minute on the other side. You should see dark spots on both sides if the heat is high enough. Brush with butter and sprinkle on garlic powder and cilantro if desired."
+  },
+  {
+    "id": "flour-tortillas",
+    "title": "Flour Tortillas",
+    "description": "Homemade soft flour tortillas",
+    "image": "recipe-data/images/flour-tortillas.jpg",
+    "tags": ["bread", "mexican", "wrap"],
+    "prepTime": "15 minutes",
+    "servings": 8,
+    "ingredients": [
+      "2 cups whole wheat flour (more as needed)",
+      "1 tsp salt",
+      "1/4 cup oil",
+      "1 cup very warm water (heat in microwave for 1 min.)"
+    ],
+    "instructions": "Put flour, salt, and oil into a bowl and mix until well incorporated. Gradually add the warm water while mixing, then stir or knead until the dough is smooth. Separate dough into 8 equal portions and roll out on a floured surface. Heat a skillet over medium-high heat and cook each tortilla for 1-2 minutes on each side."
+  },
+  {
+    "id": "yeasted-pizza-dough",
+    "title": "Yeasted Pizza Dough",
+    "description": "Classic pizza dough with yeast for the best flavor",
+    "image": "recipe-data/images/pizza-dough.jpg",
+    "tags": ["bread", "pizza", "yeast"],
+    "prepTime": "15 minutes",
+    "servings": 10,
+    "ingredients": [
+      "Wet: 1 1/2 C warm water, 1 tbsp active dry or instant yeast, 2 tsp honey or agave, 2 tbsp olive oil",
+      "Dry: 3 cups flour (more as needed), 1 tsp salt"
+    ],
+    "instructions": "Put wet ingredients into a large bowl and mix to combine. Let sit for about 5 minutes. Add dry ingredients and mix well. Once a dough begins to form, knead for about 5 minutes. Allow dough to rise in the bowl, covered, for about an hour or until doubled in size. Use as soon as possible. This dough doesn't taste good if stored in the fridge for more than a day."
+  },
+  {
+    "id": "protein-pizza-dough",
+    "title": "Protein Pizza Dough",
+    "description": "Pizza dough with added protein from milk and egg",
+    "image": "recipe-data/images/protein-pizza-dough.jpg",
+    "tags": ["bread", "pizza", "protein"],
+    "prepTime": "15 minutes",
+    "servings": 10,
+    "ingredients": [
+      "Wet: 1 C warm milk, 1 egg or 1/4 C egg whites, 1 tbsp active dry or instant yeast, 2 tsp honey or agave, 2 tbsp olive oil",
+      "Dry: 3 cups flour (more as needed), 1 tsp salt",
+      "Optional: 1/3 C shredded mozarella cheese"
+    ],
+    "instructions": "Mix wet ingredients together in a large bowl and let rest for 5 minutes. Add dry ingredients and cheese if using, and mix until well incorporated. Knead dough until smooth, about 5 minutes. Cover and let rise for 1 hour or until doubled in size. Use for pizza or breadsticks as soon as possible."
+  },
+  {
+    "id": "no-rise-pizza-dough",
+    "title": "No-rise Pizza Dough",
+    "description": "Quick pizza dough when you don't have time to wait",
+    "image": "recipe-data/images/no-rise-dough.jpg",
+    "tags": ["bread", "pizza", "quick"],
+    "prepTime": "15 minutes",
+    "servings": 10,
+    "ingredients": [
+      "Dry: 2 cups flour (more as needed), 3 tsp baking powder, 1 tsp salt",
+      "Wet: 3/4 C water, 2 tbsp oil"
+    ],
+    "instructions": "Mix dry ingredients together, then add wet ingredients. It's ok if the dough is a little sticky because if it's too dry it's a doozy to roll out! Knead the dough for about 5 minutes, then roll out on a floured surface and use!"
+  },
+  {
+    "id": "greek-yogurt-lemon-bars",
+    "title": "Greek Yogurt Lemon Bars",
+    "description": "Healthier lemon bars with Greek yogurt",
+    "image": "recipe-data/images/lemon-bars.jpg",
+    "tags": ["dessert", "lemon", "healthy"],
+    "prepTime": "15 minutes",
+    "servings": 10,
+    "ingredients": [
+      "Crust: 1 cup flour, 1/3 cup melted coconut oil or butter, 1/4 cup honey, agave, or maple syrup, 1/4 tsp salt",
+      "Filling: 1/2 cup Greek Yogurt, 3 eggs, 1/3 cup honey, agave, or maple syrup, 1/3 cup lemon juice (fresh is best), 1 tsp vanilla, 1/4 tsp salt, 2 tbsp flour",
+      "Optional: powdered sugar for sprinkling"
+    ],
+    "instructions": "Preheat oven to 350 degrees F and grease an 8x8 pan. Place all crust ingredients in a bowl and mix well, then dump into prepared pan and pat down until the entire bottom of the pan is covered. Bake the crust for about 15 minutes and let it cool while you make the filling. Add all filling ingredients to a bowl and whisk well or use an immersion blender (you could also just throw it into a regular blender.) Pour the filling into the pan and cook for another 30 minutes or until set. Let cool completely before enjoying (good luck with that!) Cut and sprinkle with powdered sugar if desired."
+  },
+  {
+    "id": "black-bean-brownies",
+    "title": "Black Bean Brownies",
+    "description": "Fudgy brownies with hidden black beans for extra fiber",
+    "image": "recipe-data/images/black-bean-brownies.jpg",
+    "tags": ["dessert", "healthy", "chocolate"],
+    "prepTime": "30 minutes",
+    "servings": 20,
+    "ingredients": [
+      "2 15-oz can black beans",
+      "4 tbsp cocoa powder",
+      "1 C rolled oats",
+      "1/2 tsp salt",
+      "1 cup pitted dates (OR 2/3 cup honey, maple syrup or agave)",
+      "1/2 cup oil OR peanut butter",
+      "2 tsp vanilla",
+      "1 tsp baking powder",
+      "1 1/2 cups chocolate chips (NOT OPTIONAL- these brownies only taste good with the chocolate chips added!)"
+    ],
+    "instructions": "Preheat oven to 350 degrees F and grease an 18x13 baking pan (can use slightly larger or smaller if needed). Drain and rinse the black beans VERY thoroughly. Place all ingredients except the chocolate chips into a food processor or heavy-duty blender (you'll need some real power for this mixture). Blend until completely smooth. As smooth as possible. Transfer to a bowl and mix in the chocolate chips (save some to place on top if desired). Pour batter into the prepared pan, sprinkle the extra chocolate chips on top, and cook for about 15 minutes. They may need a few extra minutes, but they'll finish setting once they cool. Once done, allow to cool fully before cutting. Store in the fridge."
+  },
+  {
+    "id": "chickpea-cookie-dough",
+    "title": "Chickpea Cookie Dough",
+    "description": "Edible cookie dough made with chickpeas",
+    "image": "recipe-data/images/chickpea-cookie-dough.jpg",
+    "tags": ["dessert", "healthy", "no-bake"],
+    "prepTime": "10 minutes",
+    "servings": 10,
+    "ingredients": [
+      "3 cups chickpeas (2 cans, drained and rinsed thoroughly)",
+      "1/4 tsp salt",
+      "1/4 tsp baking soda",
+      "4 tsp pure vanilla extract",
+      "1/2 cup peanut butter",
+      "1/3-1/2 cup milk if needed",
+      "Sweetener of choice to taste",
+      "1 cup dark chocolate chips"
+    ],
+    "instructions": "Add all ingredients except for chocolate chips to a blender or food processor. If you use a blender, you'll need the tamper to push everything down as it blends. Blend until smooth, then dump into a bowl. Stir in chocolate chips. Serve with apple slices or enjoy by the spoonful!"
+  },
+  {
+    "id": "instant-pot-rice",
+    "title": "Instant Pot Rice",
+    "description": "Perfect rice every time using your pressure cooker",
+    "image": "recipe-data/images/instant-pot-rice.jpg",
+    "tags": ["side", "meal-prep", "basic"],
+    "prepTime": "30 minutes",
+    "servings": 8,
+    "ingredients": [
+      "2 cups jasmine, basmati, or other white rice",
+      "2 cups water"
+    ],
+    "instructions": "Place rice in the instant pot and rinse well. Drain the water off (it's ok if there's still some left). Add the 2 cups of water, close the lid, and press the rice button. Once the cooking time is over, allow the pressure to naturally release for 10 minutes, then let the rest of the pressure out by turning the valve to \"venting.\" Fluff with a fork or rice spoon and serve, or allow to cool slightly before placing in meal prep containers."
+  },
+  {
+    "id": "instant-pot-beans",
+    "title": "Instant Pot Beans",
+    "description": "Perfectly cooked beans from scratch with great flavor",
+    "image": "recipe-data/images/instant-pot-beans.jpg",
+    "tags": ["meal-prep", "protein", "basic"],
+    "prepTime": "1 hr. 15 min.",
+    "servings": 10,
+    "ingredients": [
+      "2 tbsp oil",
+      "1 cup diced onion",
+      "2 1/2 cups dry beans",
+      "5 cups water, chicken stock, or vegetable stock",
+      "1 tsp salt",
+      "1/2 tsp ground cumin",
+      "1/2 tsp smoked paprika",
+      "1 tsp chili powder",
+      "1 tsp garlic powder",
+      "optional add-ins: chilis in adobo sauce, green chilis, diced tomatoes"
+    ],
+    "instructions": "Turn the Instant Pot onto Saute mode and add the oil. Once oil is hot, add diced onions and cook until they're translucent. Add the rest of the ingredients and stir. Set the Instant Pot to pressure cook for 1 hour. Once it's done, allow pressure to naturally release fully. This may take up to 30 minutes."
+  },
+  {
+    "id": "instant-pot-shredded-chicken",
+    "title": "Instant Pot Shredded Chicken",
+    "description": "Flavorful shredded chicken perfect for meal prep",
+    "image": "recipe-data/images/shredded-chicken.jpg",
+    "tags": ["meal-prep", "protein", "versatile"],
+    "prepTime": "30 min.",
+    "servings": 10,
+    "ingredients": [
+      "3 lbs frozen chicken breasts or thighs",
+      "For salsa chicken: 3-4 cups salsa, 2 tsp garlic powder, 2 tsp smoked paprika, 2 tsp cumin, 2 tsp salt",
+      "For green chili chicken: 14 oz chopped green chilis (more or less according to desired spice level), 2 tsp garlic powder, 2 tsp salt"
+    ],
+    "instructions": "Add chicken to the instant pot, along with all ingredients for your desired for your desired flavor. Cook on high pressure for 15 minutes, then allow pressure to fully release naturally. Shred chicken with a fork."
+  },
+  {
+    "id": "oven-roasted-chicken-breasts",
+    "title": "Oven Roasted Chicken Breasts",
+    "description": "Simple seasoned chicken breasts for meal prep",
+    "image": "recipe-data/images/roasted-chicken.jpg",
+    "tags": ["meal-prep", "protein", "simple"],
+    "prepTime": "30 min.",
+    "servings": 10,
+    "ingredients": [
+      "3 lbs frozen chicken breasts",
+      "For basic chicken: salt, pepper, garlic powder",
+      "For Mexican chicken: salt, pepper, garlic powder, smoked paprika, cumin, chili powder",
+      "For Greek chicken: salt, pepper, garlic powder, oregano, basil, lemon juice"
+    ],
+    "instructions": "Preheat oven to 425 degrees F. Place chicken breasts on a cookie sheet and season as desired. Cook for 30-40 minutes or until internal temperature reaches 165 degrees F. Cut into chunks and store for future use."
+  },
+  {
+    "id": "hearty-granola",
+    "title": "Hearty Granola",
+    "description": "Homemade granola packed with nuts and seeds",
+    "image": "recipe-data/images/hearty-granola.jpg",
+    "tags": ["breakfast", "snack", "healthy"],
+    "prepTime": "30 min.",
+    "servings": 16,
+    "ingredients": [
+      "4 cups rolled oats",
+      "1 cup roughly chopped nuts such as: pecans, almonds, walnuts",
+      "1/2 cup seeds such as: pumpkin seeds, sunflower seeds, chia seeds, flax seeds",
+      "1/2 tsp salt",
+      "1/2 tsp cinnamon",
+      "1/2 cup honey, agave, or maple syrup",
+      "1/2 cup oil (coconut, olive, or avocado oil taste best)",
+      "1 tsp vanilla (optional)",
+      "Optional mix-ins: 1/2 cup dried fruit, chocolate chips, coconut flakes"
+    ],
+    "instructions": "Preheat oven to 350 degrees F and prepare a large cookie sheet by greasing or placing a silicone mat. Place all dry ingredients in a large bowl and mix well. Warm sweetener, oil, and vanilla in a separate bowl in the microwave for 30 seconds (this will ensure easier mixing if using honey). Mix the sweetener mixture into the dry ingredients until everything is evenly coated. Spread granola evenly onto the cookie sheet. Cook granola for 15 minutes, then stir, spread again, and cook for 8-10 more minutes. Allow granola to fully cool, then break into pieces and add your mix-ins."
   }
 ]
