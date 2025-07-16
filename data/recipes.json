@@ -233,7 +233,7 @@
   {
     "id": "tofu-pancakes",
     "title": "Tofu Pancakes",
-    "description": "High-protein vegan pancakes that are surprisingly fluffy",
+    "description": "High-protein vegan pancakes that are surprisingly fluffy and tasty",
     "image": "data/images/tofu_pancakes.png",
     "tags": ["breakfast", "vegan", "protein"],
     "prepTime": "15 minutes",
