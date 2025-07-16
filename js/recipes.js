@@ -214,8 +214,8 @@ function closeRecipeModal() {
 // Handle image loading errors more gracefully
 function handleImageError(img) {
     // Try placeholder first
-    if (!img.src.includes('placeholder.jpg')) {
-        img.src = 'assets/images/placeholder.jpg';
+    if (!img.src.includes('placeholder.png')) {
+        img.src = 'assets/images/placeholder.png';
         return;
     }
     

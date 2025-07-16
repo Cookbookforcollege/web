@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cooking Skills - Cookbook for College</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Header will be loaded here -->
+    <div id="header-placeholder"></div>
+
+    <!-- Main Content -->
+    <main>
+        <div class="page-header">
+            <h1 class="page-title">Essential Cooking Skills</h1>
+            <p class="page-subtitle">Master the fundamental techniques every college student should know</p>
+        </div>
+
+        <!-- Cooking Skills Cards -->
+        <div class="content-card">
+            <h2 style="color: #2a5a2a; margin-bottom: 30px; font-size: 1.8rem; text-align: center;">Core Cooking Techniques</h2>
+            
+            <div class="skills-grid">
+                <div class="skill-card" onclick="openSkillModal('knife-skills')">
+                    <div class="skill-header">
+                        <h3>Knife Skills</h3>
+                        <div class="skill-level">Beginner</div>
+                    </div>
+                    <p>Learn proper knife handling and cutting techniques for efficient food preparation.</p>
+                </div>
+
+                <div class="skill-card" onclick="openSkillModal('pan-cooking')">
+                    <div class="skill-header">
+                        <h3>Pan Cooking</h3>
+                        <div class="skill-level">Beginner</div>
+                    </div>
+                    <p>Master sautéing, searing, and pan-frying techniques for perfectly cooked meals.</p>
+                </div>
+
+                <div class="skill-card" onclick="openSkillModal('timing-temps')">
+                    <div class="skill-header">
+                        <h3>Timing & Temperatures</h3>
+                        <div class="skill-level essential">Essential</div>
+                    </div>
+                    <p>Understand cooking times and food safety temperatures.</p>
+                </div>
+
+                <div class="skill-card" onclick="openSkillModal('seasoning')">
+                    <div class="skill-header">
+                        <h3>Seasoning & Flavoring</h3>
+                        <div class="skill-level intermediate">Intermediate</div>
+                    </div>
+                    <p>Learn how to properly season food and layer flavors effectively.</p>
+                </div>
+
+                <div class="skill-card" onclick="openSkillModal('prep-basics')">
+                    <div class="skill-header">
+                        <h3>Meal Prep Basics</h3>
+                        <div class="skill-level">Beginner</div>
+                    </div>
+                    <p>Efficient preparation techniques and batch cooking strategies.</p>
+                </div>
+
+                <div class="skill-card" onclick="openSkillModal('kitchen-safety')">
+                    <div class="skill-header">
+                        <h3>Kitchen Safety</h3>
+                        <div class="skill-level essential">Essential</div>
+                    </div>
+                    <p>Essential safety practices and proper food handling techniques.</p>
+                </div>
+
+                <div class="skill-card" onclick="openSkillModal('equipment-basics')">
+                    <div class="skill-header">
+                        <h3>Equipment Basics</h3>
+                        <div class="skill-level">Beginner</div>
+                    </div>
+                    <p>Essential kitchen tools and proper usage for dorm cooking.</p>
+                </div>
+
+                <div class="skill-card" onclick="openSkillModal('pasta-grains')">
+                    <div class="skill-header">
+                        <h3>Pasta & Grains</h3>
+                        <div class="skill-level">Beginner</div>
+                    </div>
+                    <p>Perfect cooking techniques for rice, pasta, and other grains.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Video Tutorial Section -->
+        <div class="content-card">
+            <h2 style="color: #2a5a2a; margin-bottom: 30px; font-size: 1.8rem; text-align: center;">Video Tutorials</h2>
+            
+            <div class="videos-grid">
+                <div class="video-card" onclick="openVideoModal('basic-knife-skills')">
+                    <div class="video-thumbnail">
+                        <img src="assets/images/video-placeholder.png" alt="Basic Knife Skills" 
+                             onerror="handleVideoThumbnailError(this, 'Knife Skills')">
+                        <div class="play-button">▶</div>
+                        <div class="video-duration">5:32</div>
+                    </div>
+                    <div class="video-content">
+                        <h4>Basic Knife Skills for Beginners</h4>
+                        <p>Learn proper knife grip, basic cuts like dice and julienne, and essential safety techniques for confident food preparation.</p>
+                        <div class="video-meta">
+                            <span class="video-category">Knife Skills</span>
+                            <span class="video-difficulty">Beginner</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="video-card" onclick="openVideoModal('perfect-eggs')">
+                    <div class="video-thumbnail">
+                        <img src="assets/images/video-placeholder.png" alt="Perfect Eggs" 
+                             onerror="handleVideoThumbnailError(this, 'Perfect Eggs')">
+                        <div class="play-button">▶</div>
+                        <div class="video-duration">3:45</div>
+                    </div>
+                    <div class="video-content">
+                        <h4>How to Cook Perfect Eggs</h4>
+                        <p>Master scrambled, fried, and boiled eggs with professional techniques that work every time.</p>
+                        <div class="video-meta">
+                            <span class="video-category">Pan Cooking</span>
+                            <span class="video-difficulty">Beginner</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="video-card" onclick="openVideoModal('rice-pasta-basics')">
+                    <div class="video-thumbnail">
+                        <img src="assets/images/video-placeholder.png" alt="Rice and Pasta" 
+                             onerror="handleVideoThumbnailError(this, 'Rice & Pasta')">
+                        <div class="play-button">▶</div>
+                        <div class="video-duration">7:18</div>
+                    </div>
+                    <div class="video-content">
+                        <h4>Perfect Rice and Pasta Every Time</h4>
+                        <p>Never have mushy or undercooked grains again with these foolproof cooking methods and timing guides.</p>
+                        <div class="video-meta">
+                            <span class="video-category">Grains</span>
+                            <span class="video-difficulty">Beginner</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="video-card" onclick="openVideoModal('seasoning-guide')">
+                    <div class="video-thumbnail">
+                        <img src="assets/images/video-placeholder.png" alt="Seasoning Guide" 
+                             onerror="handleVideoThumbnailError(this, 'Seasoning')">
+                        <div class="play-button">▶</div>
+                        <div class="video-duration">6:12</div>
+                    </div>
+                    <div class="video-content">
+                        <h4>Seasoning and Spice Basics</h4>
+                        <p>Transform bland food into delicious meals with proper seasoning techniques and spice combinations.</p>
+                        <div class="video-meta">
+                            <span class="video-category">Seasoning</span>
+                            <span class="video-difficulty">Intermediate</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="video-card" onclick="openVideoModal('meal-prep-basics')">
+                    <div class="video-thumbnail">
+                        <img src="assets/images/video-placeholder.png" alt="Meal Prep" 
+                             onerror="handleVideoThumbnailError(this, 'Meal Prep')">
+                        <div class="play-button">▶</div>
+                        <div class="video-duration">8:34</div>
+                    </div>
+                    <div class="video-content">
+                        <h4>Meal Prep for Busy Students</h4>
+                        <p>Efficient strategies for preparing a week's worth of healthy meals in just a few hours of weekend cooking.</p>
+                        <div class="video-meta">
+                            <span class="video-category">Meal Prep</span>
+                            <span class="video-difficulty">Intermediate</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="video-card" onclick="openVideoModal('kitchen-safety')">
+                    <div class="video-thumbnail">
+                        <img src="assets/images/video-placeholder.png" alt="Kitchen Safety" 
+                             onerror="handleVideoThumbnailError(this, 'Kitchen Safety')">
+                        <div class="play-button">▶</div>
+                        <div class="video-duration">4:56</div>
+                    </div>
+                    <div class="video-content">
+                        <h4>Essential Kitchen Safety</h4>
+                        <p>Prevent accidents and food poisoning with these crucial safety practices every home cook should know.</p>
+                        <div class="video-meta">
+                            <span class="video-category">Safety</span>
+                            <span class="video-difficulty">Essential</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer will be loaded here -->
+    <div id="footer-placeholder"></div>
+
+    <script src="js/shared.js"></script>
+    <script src="js/cooking-skills.js"></script>
+</body>
+</html>
