@@ -14,7 +14,7 @@ body {
 
 /* Header Styles */
 header {
-    background: rgba(255, 255, 255, 0.95);
+    background: rgba(255, 255, 255, 0.95);/*rgba(255, 255, 255, 0.95);*/
     backdrop-filter: blur(10px);
     padding: 20px 0;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
@@ -90,15 +90,15 @@ header {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(231, 111, 81, 0.1), transparent);
+    background: linear-gradient(90deg, transparent, rgba(81, 231, 101, 0.1), transparent);
     transition: left 0.5s ease;
 }
 
 .tab-btn:hover {
-    background: rgba(231, 111, 81, 0.08);
-    color: #e76f51;
+    background: rgba(84, 231, 81, 0.08);
+    color: #67b856;
     transform: translateY(-1px);
-    box-shadow: 0 2px 8px rgba(231, 111, 81, 0.2);
+    box-shadow: 0 2px 8px rgba(81, 231, 109, 0.2);
 }
 
 .tab-btn:hover::before {
@@ -106,10 +106,10 @@ header {
 }
 
 .tab-btn.active {
-    color: #e76f51;
-    border-bottom-color: #e76f51;
-    background: rgba(231, 111, 81, 0.1);
-    box-shadow: inset 0 2px 4px rgba(231, 111, 81, 0.1);
+    color: #67b856;
+    border-bottom-color: #47793e;
+    background: rgba(81, 231, 111, 0.1);
+    box-shadow: inset 0 2px 4px rgba(91, 231, 81, 0.1);
 }
 
 /* Main Content */
@@ -1221,7 +1221,7 @@ main {
 
 /* Footer Styles */
 footer {
-    background: #2a5a2a;
+    background: #3b5a3b;
     color: white;
     margin-top: 60px;
 }
