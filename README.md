@@ -1,3 +1,3 @@
 # MyWebsite
 
-This is a cool website.
+https://cookbookforcollege.github.io/web/
